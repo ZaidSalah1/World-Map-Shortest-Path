@@ -8,7 +8,9 @@ This project implements Dijkstra's Shortest Path Algorithm to find the shortest 
 
 
 # World Map Image with Capitals
-![w3](https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/855e6f64-cd4c-4ca2-9b70-90a281fa7d29)
+![w3](https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/dfdf4166-829e-4b1a-a2a4-8357c0116fcc)
+
+
 
 ## After Selecting the Source and Target City 
 
