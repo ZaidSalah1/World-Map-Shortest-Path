@@ -34,4 +34,4 @@ https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/f96b29
 
 # Input Format
 The input should be a text file containing the distances between the capitals in the following format:
-> This is a black box content.
+``` This is a black box content.
