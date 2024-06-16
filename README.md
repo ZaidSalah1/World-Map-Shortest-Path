@@ -32,18 +32,26 @@ https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/f96b29
 - Run the application and provide the starting capital as input.
 - The program will output the shortest path and distances to all other capitals.
 
-# Input Format
+# File Input Format to get the Capital of each country to add it to the image in UI, Not the Distance Data should be Real 
+
 The input should be a text file containing the distances between the capitals in the following format:
 ```
-CapitalA CapitalB Distance
-CapitalB CapitalC Distance
-CapitalA CapitalC Distance
+CapitalA  Distance
+CapitalB  Distance
+CapitalA  Distance
 ...
 Example
-Paris Berlin 1050
-Paris Madrid 1260
-Berlin Warsaw 570
-Madrid Lisbon 625
+Berlin 1050
+Madrid 1260
+Warsaw 570
+Madrid 625
 
-
+```
+# In other Section of the File 
+Source Captial Target Capital 
+Example:
+Paris Berlin 
+Paris Madrid 
+Berlin Warsaw 
+```
 
