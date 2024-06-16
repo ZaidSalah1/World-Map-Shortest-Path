@@ -25,3 +25,13 @@ This project implements Dijkstra's Shortest Path Algorithm to find the shortest 
  Note that You can choose the country through the mouse or Combox Box.
  
 https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/f96b29cd-fda7-4c07-a6f3-9354284524c7
+
+
+# Usage
+- Ensure you have the input data file in the correct format (see Input Format).
+- Run the application and provide the starting capital as input.
+- The program will output the shortest path and distances to all other capitals.
+
+# Input Format
+The input should be a text file containing the distances between the capitals in the following format:
+> This is a black box content.
