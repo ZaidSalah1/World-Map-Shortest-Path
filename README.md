@@ -11,8 +11,6 @@ This project implements Dijkstra's Shortest Path Algorithm to find the shortest 
 ![w3](https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/855e6f64-cd4c-4ca2-9b70-90a281fa7d29)
 
 ## After Selecting the Source and Target City 
-https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/f96b29cd-fda7-4c07-a6f3-9354284524c7
-
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/9bcfee65-bfa6-4db4-946d-be26529ec297" alt="Capital Map 2" width="300"/>
@@ -20,3 +18,6 @@ https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/f96b29
 </div>
 
 ![w5](https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/0c006638-b3f6-4cdf-9989-0dc6d7cd67db)
+
+# Sample Video
+https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/f96b29cd-fda7-4c07-a6f3-9354284524c7
