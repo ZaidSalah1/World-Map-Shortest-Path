@@ -35,4 +35,15 @@ https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/f96b29
 # Input Format
 The input should be a text file containing the distances between the capitals in the following format:
 ```
-This is a black box content.
+CapitalA CapitalB Distance
+CapitalB CapitalC Distance
+CapitalA CapitalC Distance
+...
+Example
+Paris Berlin 1050
+Paris Madrid 1260
+Berlin Warsaw 570
+Madrid Lisbon 625
+
+
+
