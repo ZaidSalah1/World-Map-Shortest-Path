@@ -22,5 +22,5 @@ This project implements Dijkstra's Shortest Path Algorithm to find the shortest 
 ![w5](https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/0c006638-b3f6-4cdf-9989-0dc6d7cd67db)
 
 # Sample Video
-## Note that You can choose the country through the mouse or Combox Box.
+ Note that You can choose the country through the mouse or Combox Box.
 https://github.com/zaidsalah123er/World-Map-Shortest-Path/assets/89332179/f96b29cd-fda7-4c07-a6f3-9354284524c7
